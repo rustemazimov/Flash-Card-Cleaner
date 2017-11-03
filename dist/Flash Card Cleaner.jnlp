@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Flash Card Cleaner.jnlp">
+  <information>
+    <title>Flash Card Cleaner</title>
+    <vendor>Rustem</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <application-desc main-class="flash.card.cleaner.FlashCardCleaner"  name="Flash Card Cleaner" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
